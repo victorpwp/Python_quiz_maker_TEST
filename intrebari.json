@@ -1,0 +1,404 @@
+[
+    {
+        "intrebare": "Cum îți place să-ți petreci timpul liber?",
+        "optiuni": [
+            {"text": "Relaxându-mă singur într-un loc confortabil", "animal": "Pisică"},
+            {"text": "Socializând cu prietenii și familia", "animal": "Câine"},
+            {"text": "Admirând natura sau visând cu ochii deschiși", "animal": "Pasăre"},
+            {"text": "Explorând locuri noi sau făcând activități energice", "animal": "Iepure"}
+        ],
+        "scoruri": [1, 1, 1, 1]
+    },
+    {
+        "intrebare": "Cum reacționezi când întâlnești o persoană nouă?",
+        "optiuni": [
+            {"text": "Mă retrag și mă gândesc dacă vreau să interacționez", "animal": "Pasăre"},
+            {"text": "Îi salut prietenos și deschis", "animal": "Câine"},
+            {"text": "Sunt curios și mă apropii rapid", "animal": "Iepure"},
+            {"text": "O studiez înainte să mă apropii", "animal": "Pisică"}
+        ],
+        "scoruri": [1, 1, 1, 1]
+    },
+    {
+        "intrebare": "Ce alegi pentru micul dejun?",
+        "optiuni": [
+            {"text": "Ceva ușor și sănătos", "animal": "Pasăre"},
+            {"text": "Ceva rapid și simplu, fără prea multe bătăi de cap", "animal": "Pisică"},
+            {"text": "O masă consistentă și hrănitoare", "animal": "Câine"},
+            {"text": "Gustări mici și variate", "animal": "Iepure"}
+        ],
+        "scoruri": [1, 1, 1, 1]
+    },
+    {
+        "intrebare": "Ce tip de activități preferi?",
+        "optiuni": [
+            {"text": "Activități dinamice și distractive", "animal": "Iepure"},
+            {"text": "Activități de grup sau jocuri de echipă", "animal": "Câine"},
+            {"text": "Activități care implică libertate și imaginație", "animal": "Pasăre"},
+            {"text": "Activități care implică creativitate și intimitate", "animal": "Pisică"}
+        ],
+        "scoruri": [1, 1, 1, 1]
+    },
+    {
+        "intrebare": "Cum te descurci în situații stresante?",
+        "optiuni": [
+            {"text": "Încerc să găsesc o cale rapidă de ieșire", "animal": "Iepure"},
+            {"text": "Mă detașez și încerc să văd lucrurile de sus", "animal": "Pasăre"},
+            {"text": "Caut ajutorul celor din jur", "animal": "Câine"},
+            {"text": "Mă retrag pentru a mă calma", "animal": "Pisică"}
+        ],
+        "scoruri": [1, 1, 1, 1]
+    },
+    {
+        "intrebare": "Cum îți organizezi casa sau spațiul personal?",
+        "optiuni": [
+            {"text": "Confortul este prioritatea principală", "animal": "Pisică"},
+            {"text": "Totul este practic și funcțional", "animal": "Câine"},
+            {"text": "Îmi place să fie aerisit și luminos", "animal": "Pasăre"},
+            {"text": "Mă asigur că am loc să mă mișc liber", "animal": "Iepure"}
+        ],
+        "scoruri": [1, 1, 1, 1]
+    },
+    {
+        "intrebare": "Care este locul tău preferat pentru vacanță?",
+        "optiuni": [
+            {"text": "Un parc de aventuri sau o destinație activă", "animal": "Iepure"},
+            {"text": "O cabană unde pot petrece timp cu familia", "animal": "Câine"},
+            {"text": "Undeva cu priveliști spectaculoase, poate la munte sau în natură", "animal": "Pasăre"},
+            {"text": "Un loc liniștit, departe de agitație", "animal": "Pisică"}
+        ],
+        "scoruri": [1, 1, 1, 1]
+    },
+    {
+        "intrebare": "Cum reacționezi când cineva îți cere ajutorul?",
+        "optiuni": [
+            {"text": "Analizez situația înainte de a răspunde", "animal": "Pisică"},
+            {"text": "Sar imediat să ajut", "animal": "Câine"},
+            {"text": "Încerc să ghidez persoana spre o soluție", "animal": "Pasăre"},
+            {"text": "Ajut dacă nu e ceva prea complicat", "animal": "Iepure"}
+        ],
+        "scoruri": [1, 1, 1, 1]
+    },
+    {
+        "intrebare": "Ce fel de prieten ești?",
+        "optiuni": [
+            {"text": "Inspirațional și un bun ascultător", "animal": "Pasăre"},
+            {"text": "Selectiv, dar foarte apropiat de cei pe care îi aleg", "animal": "Pisică"},
+            {"text": "Energic și mereu gata de distracție", "animal": "Iepure"},
+            {"text": "Devotat și loial", "animal": "Câine"}
+        ],
+        "scoruri": [1, 1, 1, 1]
+    },
+    {
+        "intrebare": "Ce te motivează cel mai mult?",
+        "optiuni": [
+            {"text": "Recunoașterea și aprecierea celorlalți", "animal": "Câine"},
+            {"text": "Libertatea de a face ceea ce îmi place", "animal": "Pasăre"},
+            {"text": "Curiozitatea și dorința de a încerca lucruri noi", "animal": "Iepure"},
+            {"text": "Timpul petrecut singur sau cu cei foarte apropiați", "animal": "Pisică"}
+        ],
+        "scoruri": [1, 1, 1, 1]
+    },
+    {
+        "intrebare": "Cum reacționezi la schimbări bruște?",
+        "optiuni": [
+            {"text": "Le accept ca pe o oportunitate de creștere", "animal": "Pasăre"},
+            {"text": "Mă adaptez repede cu sprijinul celor din jur", "animal": "Câine"},
+            {"text": "Sunt agitat la început, dar mă adaptez rapid", "animal": "Iepure"},
+            {"text": "Am nevoie de timp să mă obișnuiesc", "animal": "Pisică"}
+        ],
+        "scoruri": [1, 1, 1, 1]
+    },
+    {
+        "intrebare": "Care este cel mai mare atu al tău?",
+        "optiuni": [
+            {"text": "Independența și inteligența", "animal": "Pisică"},
+            {"text": "Energia și entuziasmul", "animal": "Iepure"},
+            {"text": "Devotamentul față de cei dragi", "animal": "Câine"},
+            {"text": "Creativitatea și perspectiva unică asupra lucrurilor", "animal": "Pasăre"}
+        ],
+        "scoruri": [1, 1, 1, 1]
+    },
+    {
+        "intrebare": "Cum preferi să-ți începi dimineața?",
+        "optiuni": [
+            {"text": "Într-un mod jucăuș și activ", "animal": "Iepure"},
+            {"text": "Lent, cu un moment de relaxare", "animal": "Pisică"},
+            {"text": "Cu multă energie, gata de acțiune", "animal": "Câine"},
+            {"text": "Contemplând planurile zilei", "animal": "Pasăre"}
+        ],
+        "scoruri": [1, 1, 1, 1]
+    },
+    {
+        "intrebare": "Ce faci când cineva te supără?",
+        "optiuni": [
+            {"text": "Mă retrag și mă gândesc la ce s-a întâmplat", "animal": "Pisică"},
+            {"text": "Încerc să clarific lucrurile imediat", "animal": "Câine"},
+            {"text": "Evit confruntarea și încerc să mă distrez ca să uit", "animal": "Iepure"},
+            {"text": "Mă detașez și încerc să privesc situația obiectiv", "animal": "Pasăre"}
+        ],
+        "scoruri": [1, 1, 1, 1]
+    },
+    {
+        "intrebare": "Ce tip de hobby-uri ai prefera?",
+        "optiuni": [
+            {"text": "Sporturi sau jocuri dinamice", "animal": "Iepure"},
+            {"text": "Activități de echipă sau sociale", "animal": "Câine"},
+            {"text": "Cititul, desenul sau alte activități individuale", "animal": "Pisică"},
+            {"text": "Fotografia sau observarea naturii", "animal": "Pasăre"}
+        ],
+        "scoruri": [1, 1, 1, 1]
+    },
+    {
+        "intrebare": "Cum te simți în mijlocul unei mulțimi mari?",
+        "optiuni": [
+            {"text": "Prefer să stau deoparte sau să plec", "animal": "Pisică"},
+            {"text": "Mă bucur de energie și de socializare", "animal": "Câine"},
+            {"text": "Mă simt sufocat și caut un loc liniștit", "animal": "Pasăre"},
+            {"text": "Sunt curios și mă plimb prin mulțime", "animal": "Iepure"}
+        ],
+        "scoruri": [1, 1, 1, 1]
+    },
+    {
+        "intrebare": "Ce te face cel mai fericit?",
+        "optiuni": [
+            {"text": "Să fac pe cineva fericit", "animal": "Câine"},
+            {"text": "Să am timp pentru mine", "animal": "Pisică"},
+            {"text": "Să simt că sunt liber", "animal": "Pasăre"},
+            {"text": "Să descopăr lucruri noi", "animal": "Iepure"}
+        ],
+        "scoruri": [1, 1, 1, 1]
+    },
+    {
+        "intrebare": "Cum te descurci cu rutina zilnică?",
+        "optiuni": [
+            {"text": "Încerc să găsesc modalități creative de a o schimba", "animal": "Pasăre"},
+            {"text": "O urmez fără probleme", "animal": "Câine"},
+            {"text": "Mă plictisesc repede de ea", "animal": "Iepure"},
+            {"text": "Prefer să am flexibilitate", "animal": "Pisică"}
+        ],
+        "scoruri": [1, 1, 1, 1]
+    },
+    {
+        "intrebare": "Care este cel mai mare vis al tău?",
+        "optiuni": [
+            {"text": "Să călătoresc și să văd lumea", "animal": "Pasăre"},
+            {"text": "Să fiu înconjurat de oameni care mă iubesc", "animal": "Câine"},
+            {"text": "Să experimentez cât mai multe lucruri noi", "animal": "Iepure"},
+            {"text": "Să am un spațiu propriu, unde să mă simt în siguranță", "animal": "Pisică"}
+        ],
+        "scoruri": [1, 1, 1, 1]
+    },
+    {
+        "intrebare": "Ce te face să te simți în siguranță?",
+        "optiuni": [
+            {"text": "Libertatea de a fi eu însumi", "animal": "Pasăre"},
+            {"text": "Un mediu stabil, dar care îmi permite să explorez", "animal": "Iepure"},
+            {"text": "Prezența celor dragi", "animal": "Câine"},
+            {"text": "Timpul petrecut singur", "animal": "Pisică"}
+        ],
+        "scoruri": [1, 1, 1, 1] 
+    },
+    {
+        "intrebare": "Ce apreciezi cel mai mult la prietenii tăi?",
+        "optiuni": [
+            {"text": "Entuziasmul lor pentru aventuri", "animal": "Iepure"},
+            {"text": "Loialitatea lor", "animal": "Câine"},
+            {"text": "Înțelegerea și empatia lor", "animal": "Pasăre"},
+            {"text": "Respectul pentru intimitatea mea", "animal": "Pisică"}
+        ],
+        "scoruri": [1, 1, 1, 1] 
+    },
+    {
+        "intrebare": "Cum te relaxezi după o zi grea?",
+        "optiuni": [
+            {"text": "Ascultând muzică sau privind cerul", "animal": "Pasăre"},
+            {"text": "Jucându-mă sau făcând sport", "animal": "Iepure"},
+            {"text": "Vorbind cu cineva apropiat", "animal": "Câine"},
+            {"text": "Făcând ceva liniștitor singur", "animal": "Pisică"}
+        ],
+        "scoruri": [1, 1, 1, 1] 
+    },
+  {
+    "intrebare": "Cum reacționezi când primești o provocare?",
+    "optiuni": [
+      {
+        "text": "O abordez cu energie, dar mă plictisesc rapid",
+        "animal": "Iepure"
+      },
+      {
+        "text": "Încerc să o transform într-o experiență plăcută",
+        "animal": "Pasăre"
+      },
+      {
+        "text": "O accept cu entuziasm, mai ales dacă e pentru grup",
+        "animal": "Câine"
+      },
+      {
+        "text": "O analizez înainte de a răspunde",
+        "animal": "Pisică"
+      }
+    ],
+    "scoruri": [1, 1, 1, 1] 
+  },
+  {
+        "intrebare": "Ce tip de peisaj îți place cel mai mult?",
+        "optiuni": [
+            {"text": "O grădină liniștită, retrasă", "animal": "Pisică"},
+            {"text": "Un câmp deschis sau o zonă sălbatică", "animal": "Iepure"},
+            {"text": "Un loc înalt cu o priveliște panoramică", "animal": "Pasăre"},
+            {"text": "Un parc sau o pădure unde mă pot plimba cu alții", "animal": "Câine"}
+        ],
+        "scoruri": [1, 1, 1, 1] 
+    },
+    {
+        "intrebare": "Cum îți place să interacționezi cu ceilalți?",
+        "optiuni": [
+            {"text": "Aleg să interacționez doar atunci când mă simt confortabil", "animal": "Pisică"},
+            {"text": "Îmi place să fiu mereu implicat în conversații și activități comune", "animal": "Câine"},
+            {"text": "Îmi place să mă joc și să râd cu ceilalți", "animal": "Iepure"},
+            {"text": "Prefer discuțiile profunde sau conversațiile semnificative", "animal": "Pasăre"}
+        ],
+        "scoruri": [1, 1, 1, 1] 
+    },
+    {
+        "intrebare": "Cum reacționezi la un conflict?",
+        "optiuni": [
+            {"text": "Încerc să mediez situația și să rezolv problema", "animal": "Câine"},
+            {"text": "Încerc să analizez situația dintr-un punct de vedere logic", "animal": "Pasăre"},
+            {"text": "Evit conflictul și încerc să distrag atenția tuturor", "animal": "Iepure"},
+            {"text": "Mă retrag și aștept să se calmeze lucrurile", "animal": "Pisică"}
+        ],
+        "scoruri": [1, 1, 1, 1] 
+    },
+    {
+        "intrebare": "Ce gen de filme preferi?",
+        "optiuni": [
+            {"text": "Documentare sau filme inspiraționale", "animal": "Pasăre"},
+            {"text": "Filme de aventură sau comedii energice", "animal": "Iepure"},
+            {"text": "Filme dramatice sau psihologice", "animal": "Pisică"},
+            {"text": "Filme de familie sau comedii calde", "animal": "Câine"}
+        ],
+        "scoruri": [1, 1, 1, 1] 
+    },
+    {
+        "intrebare": "Cum reacționezi când ai parte de o zi foarte aglomerată?",
+        "optiuni": [
+            {"text": "O accept și mă bucur de interacțiuni", "animal": "Câine"},
+            {"text": "Încep să devin agitat și vreau să termin repede totul", "animal": "Iepure"},
+            {"text": "Încerc să-mi fac timp pentru reflecție între activități", "animal": "Pasăre"},
+            {"text": "Abia aștept să am un moment de liniște", "animal": "Pisică"}
+        ],
+        "scoruri": [1, 1, 1, 1] 
+    },
+    {
+        "intrebare": "Cum te simți când încerci ceva nou?",
+        "optiuni": [
+            {"text": "Sunt entuziasmat și mă arunc cu capul înainte", "animal": "Iepure"},
+            {"text": "Îmi place să am pe cineva cu mine pentru sprijin", "animal": "Câine"},
+            {"text": "Vreau să mă asigur că îmi ofer spațiu să mă adaptez", "animal": "Pasăre"},
+            {"text": "Sunt precaut și analizez înainte să mă implic", "animal": "Pisică"}
+        ],
+        "scoruri": [1, 1, 1, 1] 
+    },
+    {
+        "intrebare": "Cum reacționezi la complimente?",
+        "optiuni": [
+            {"text": "Mă bucur rapid, dar trec repede peste", "animal": "Iepure"},
+            {"text": "Le apreciez și reflectez asupra lor", "animal": "Pasăre"},
+            {"text": "Zâmbesc timid și încerc să schimb subiectul", "animal": "Pisică"},
+            {"text": "Sunt fericit și le primesc cu entuziasm", "animal": "Câine"}
+        ],
+        "scoruri": [1, 1, 1, 1] 
+    },
+    {
+        "intrebare": "Ce faci când vezi o oportunitate interesantă?",
+        "optiuni": [
+            {"text": "Îmi planific pașii cu atenție înainte de a o încerca", "animal": "Pasăre"},
+            {"text": "O analizez atent înainte să o accept", "animal": "Pisică"},
+            {"text": "O accept imediat, fără să stau pe gânduri", "animal": "Iepure"},
+            {"text": "Mă consult cu cei dragi înainte să decid", "animal": "Câine"}
+        ],
+        "scoruri": [1, 1, 1, 1] 
+    },
+    {
+        "intrebare": "Cum te simți în natură?",
+        "optiuni": [
+            {"text": "Relaxat, mai ales când sunt cu prieteni sau familie", "animal": "Câine"},
+            {"text": "Liniștit, dar prefer locuri mai retrase", "animal": "Pisică"},
+            {"text": "Inspirațional, mai ales în locuri înalte sau deschise", "animal": "Pasăre"},
+            {"text": "Energic și gata de explorare", "animal": "Iepure"}
+        ],
+        "scoruri": [1, 1, 1, 1] 
+    },
+    {
+        "intrebare": "Ce alegi să faci într-o zi liberă?",
+        "optiuni": [
+            {"text": "Caut un loc nou pe care să-l explorez", "animal": "Pasăre"},
+            {"text": "Petrec timp cu cei dragi", "animal": "Câine"},
+            {"text": "Rămân acasă să mă relaxez", "animal": "Pisică"},
+            {"text": "Mă implic în activități distractive sau dinamice", "animal": "Iepure"}
+        ],
+        "scoruri": [1, 1, 1, 1] 
+    },
+    {
+        "intrebare": "Cum îți alegi prietenii?",
+        "optiuni": [
+            {"text": "Aleg câțiva oameni în care am încredere totală", "animal": "Pisică"},
+            {"text": "Sunt atras de persoane entuziaste și active", "animal": "Iepure"},
+            {"text": "Caut oameni cu care pot împărtăși idei și vise", "animal": "Pasăre"},
+            {"text": "Sunt deschis către oricine e prietenos și loial", "animal": "Câine"}
+        ],
+        "scoruri": [1, 1, 1, 1] 
+    },
+  {
+        "intrebare": "Ce îți place cel mai mult la o petrecere?",
+        "optiuni": [
+            {"text": "Atmosfera relaxată și discuțiile interesante", "animal": "Pasăre"},
+            {"text": "Jocurile și activitățile distractive", "animal": "Iepure"},
+            {"text": "Socializarea și energia din jur", "animal": "Câine"},
+            {"text": "Un colț liniștit unde pot vorbi cu cineva apropiat", "animal": "Pisică"}
+        ],
+        "scoruri": [1, 1, 1, 1] 
+    },
+    {
+        "intrebare": "Cum îți place să te îmbraci?",
+        "optiuni": [
+            {"text": "Lejer și aerisit", "animal": "Pasăre"},
+            {"text": "Practic și comod", "animal": "Câine"},
+            {"text": "Jucăuș și colorat", "animal": "Iepure"},
+            {"text": "Elegant și minimalist", "animal": "Pisică"}
+        ],
+        "scoruri": [1, 1, 1, 1] 
+    },
+    {
+        "intrebare": "Ce te deranjează cel mai mult la ceilalți?",
+        "optiuni": [
+            {"text": "Lipsa de energie sau entuziasm", "animal": "Iepure"},
+            {"text": "Limitarea libertății mele sau a viziunilor mele", "animal": "Pasăre"},
+            {"text": "Invadarea spațiului personal", "animal": "Pisică"},
+            {"text": "Lipsa de loialitate sau de respect", "animal": "Câine"}
+        ],
+        "scoruri": [1, 1, 1, 1] 
+    },
+    {
+        "intrebare": "Cum te simți când cineva îți oferă un cadou?",
+        "optiuni": [
+            {"text": "Îl apreciez, dar nu mă exprim prea mult", "animal": "Pisică"},
+            {"text": "Îl deschid imediat și mă entuziasmez", "animal": "Iepure"},
+            {"text": "Reflectez la gestul din spatele cadoului", "animal": "Pasăre"},
+            {"text": "Sunt recunoscător și bucuros", "animal": "Câine"}
+        ],
+        "scoruri": [1, 1, 1, 1] 
+    },
+    {
+        "intrebare": "Cum te simți după ce finalizezi un proiect?",
+        "optiuni": [
+            {"text": "Fericit că am reușit singur", "animal": "Pisică"},
+            {"text": "Mândru de munca depusă împreună cu ceilalți", "animal": "Câine"},
+            {"text": "Mulțumit și gata să analizez ce am învățat", "animal": "Pasăre"},
+            {"text": "Entuziasmat să trec la următoarea provocare", "animal": "Iepure"}
+        ],
+        "scoruri": [1, 1, 1, 1] 
+    }
+]
