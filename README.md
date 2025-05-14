@@ -1,5 +1,6 @@
-#
-Quiz-ul este simplu și intuitiv, iar codul are comentarii pentru fiecare acțiune. În plus, variabilele au nume care indică funcționalitatea lor, făcând urmărirea codului una ușoară.
+# Python Quiz Maker
+
+## Quiz-ul este simplu și intuitiv, iar codul are comentarii pentru fiecare acțiune. În plus, variabilele au nume care indică funcționalitatea lor, făcând urmărirea codului una ușoară.
 
 !!! Momentan, pentru a accesa quiz-ul, aveți 3 opțiuni principale:
 1. in file Explorer, accesarea fișierului run.bat din Scripts.
